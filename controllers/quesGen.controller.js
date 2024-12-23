@@ -66,7 +66,7 @@ export const generateQuestions = async (req, res) => {
     prompt += `,${long_ans} long answer type questions each of ${long_ans_marks} marks `;
   }
 
-  prompt += `. The syllabus and topics for the questions will be ${syllabus}. The question paper is for ${degree} ${year}st year students in India. The difficulty of the problems should be ${diff_lvl}.`;
+  prompt += `. The syllabus and topics for the questions will be ${syllabus}. The question paper is for ${degree} ${year} year students in India. The difficulty of the problems should be ${diff_lvl}.`;
 
   //api result
   const result = await apiResult(prompt);
