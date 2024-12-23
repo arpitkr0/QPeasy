@@ -1,0 +1,62 @@
+**B.Tech 1st Year Chemistry Examination**
+
+**Time:** 3 hours                                                                      **Total Marks:** 70
+
+**Instructions:** Answer all questions.
+
+**Section A: Multiple Choice Questions (1 mark each)**
+
+1.  Which of the following molecules exhibits the greatest degree of π-delocalization?
+    (a) Benzene (b) 1,3-Butadiene (c) Ethylene (d) Acetylene
+
+2.  The effective nuclear charge experienced by a 3p electron in chlorine is:
+    (a) Significantly greater than 7 (b) Approximately 7 (c) Significantly less than 7 (d) Zero
+
+3.  Which type of solid has a partially filled valence band at absolute zero temperature?
+     (a) Insulator (b) Semiconductor (c) Metal (d) Superconductor
+
+4.  What is the hybridization of the central atom in XeF₄?
+     (a) sp³ (b) sp³d (c) sp³d² (d) dsp²
+
+5.  Which interaction is primarily responsible for the solubility of iodine in carbon tetrachloride?
+    (a) Ionic bonding (b) Hydrogen bonding (c) Dipole-dipole interactions (d) London Dispersion forces
+
+
+**Section B: True/False Questions (1 mark each)**
+
+1.  The ionization energy generally increases across a period in the periodic table. (True/False)
+2.  n-type semiconductors are created by doping with elements having more valence electrons than the host semiconductor. (True/False)
+
+
+**Section C: Fill in the Blanks (1 mark each)**
+
+1.  The molecular geometry of SF₆ is __________.
+2.  The highest occupied molecular orbital (HOMO) in O₂ is __________.
+3.  The process of adding impurities to a semiconductor is called __________.
+
+
+**Section D: Assertion-Reason Questions (1 mark each)**
+
+1.  **Assertion:**  Electronegativity increases across a period.
+    **Reason:** Effective nuclear charge increases across a period.
+
+2.  **Assertion:**  Van der Waals forces are weaker than covalent bonds.
+    **Reason:** Van der Waals forces are caused by temporary fluctuations in electron distribution.
+
+
+**Section E: Short Answer Type Questions (3 marks each)**
+
+1.  Explain the concept of band gap and how it relates to the conductivity of solids.  Illustrate with examples of insulators, semiconductors, and conductors.
+2.  Discuss the factors affecting the ionization energy of an element.  Explain why the second ionization energy is always greater than the first ionization energy.
+3.  Describe the molecular orbital diagram of N₂ and explain its magnetic properties.  Compare it to the MO diagram of O₂.
+4.  Explain the difference between intrinsic and extrinsic semiconductors, providing examples of dopants used for each type. Discuss how doping affects the conductivity.
+
+
+**Section F: Long Answer Type Questions (5 marks each)**
+
+1.  Explain the hard-soft acid-base (HSAB) theory.  Illustrate the theory with examples and explain its applications in predicting the stability of complexes. Discuss limitations of the theory.
+2.  Describe the different types of intermolecular forces.  Discuss the relative strengths of these forces and their influence on physical properties such as boiling point and solubility.  Give examples to illustrate your points.
+3.  Discuss the concept of hybridization. Explain the hybridization involved in methane (CH₄), ethene (C₂H₄), and ethyne (C₂H₂).  Draw the molecular orbital diagrams for each molecule to support your answer.  Clearly explain the geometry and bond angles in each case.
+
+
+This question paper aims to test a student's deeper understanding of the concepts rather than just memorization.  The difficulty is designed to challenge B.Tech 1st-year students in India.  The questions require application of knowledge and analytical skills.
