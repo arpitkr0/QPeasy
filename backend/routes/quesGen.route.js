@@ -1,6 +1,9 @@
 import express from "express";
 import multer from "multer";
-import { generateQuestions } from "../controllers/quesGen.controller.js";
+import {
+  generateQuestions,
+  //downloadResult,
+} from "../controllers/quesGen.controller.js";
 
 const router = express.Router();
 
@@ -14,5 +17,6 @@ const storage = multer.diskStorage({
 const upload = multer({ storage: storage });
 
 router.post("/", upload.single("syllabus"), generateQuestions);
+//router.get("/download", downloadResult);
 
 export default router;

@@ -75,9 +75,19 @@ export const generateQuestions = async (req, res) => {
   try {
     fs.writeFileSync("results/result.txt", result);
     console.log("File written successfully");
+    return res.json({ success: true });
   } catch (err) {
     console.error(err);
+    return res.json({ success: false, message: "Error" });
   }
-
-  res.json({ success: true });
 };
+
+/* export const downloadResult = (req, res) => {
+  const filePath = path.join(__dirname, "results", "result.txt"); // Adjust path as needed
+  res.download(filePath, "result.txt", (err) => {
+    if (err) {
+      console.error("Error sending file:", err);
+      res.status(500).send("Error downloading file.");
+    }
+  });
+}; */
